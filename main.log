@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.21)  21 FEB 2018 08:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.21)  21 FEB 2018 09:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1016,11 +1016,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  18865 strings out of 493029
  313242 string characters out of 6136234
- 395552 words of memory out of 5000000
+ 394552 words of memory out of 5000000
  22171 multiletter control sequences out of 15000+600000
  70333 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,45p,10356b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,13n,45p,10356b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/publi
@@ -1028,7 +1028,7 @@ c/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsso17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marv
 osym.pfb>
-Output written on main.pdf (2 pages, 291102 bytes).
+Output written on main.pdf (2 pages, 291130 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
